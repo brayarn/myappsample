@@ -1,1 +1,2 @@
-alert("Is this git???")
+alert("Is this git???"); 
+console.log(2); 
